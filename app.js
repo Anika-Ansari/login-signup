@@ -25,7 +25,6 @@ function signup() {
     }
 }
 
-
 function login(){
     var userName = document.getElementById("userName").value;
     var userPassword = document.getElementById("userPassword").value;
